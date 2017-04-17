@@ -3,6 +3,10 @@ body {
 	font-size: 18px;
 	color: #333
 	}
+.main {
+	max-width: 700px;
+	padding-top: 75px;
+}
 
 h1 {
 	font-size: 1.6em;
