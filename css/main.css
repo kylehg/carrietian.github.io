@@ -6,6 +6,7 @@ body {
 .main {
 	max-width: 700px;
 	padding-top: 75px;
+	margin: 0 auto;
 }
 
 h1 {
